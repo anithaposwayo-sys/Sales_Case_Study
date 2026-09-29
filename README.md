@@ -103,6 +103,8 @@ Relatively stable demand
 This provided a practical example of how pricing decisions can influence sales volume.
 
 **📊 Dashboard**
+
+Loveable Dashboard: https://promo-profit-decoder.lovable.app
 The Excel dashboard was designed to provide an interactive overview of the coffee shop's sales performance.
 Key Dashboard Components
 KPI Cards
